@@ -50,7 +50,9 @@ Se aplicó el proceso KDD en sus diferentes fases:
    cd <TU_REPO>
 ## Crear entorno virtual
 
+```
 python3 -m venv venv (en macos)
 python -m venv venv (en windows)
 source venv/bin/activate
 pip install -r requirements.txt
+```
